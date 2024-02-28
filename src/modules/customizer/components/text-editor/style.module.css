@@ -1,0 +1,133 @@
+@font-face {
+  font-family: 'Azonix';
+  src: url('/fonts/Azonix.otf');
+  }
+
+@font-face {
+  font-family: 'BasicSquare';
+  src: url('/fonts/basic_square_7.ttf');
+}
+
+@font-face {
+  font-family: 'BasicSquareSolid';
+  src: url('/fonts/basic_square_7_solid.ttf');
+}
+
+@font-face {
+  font-family: 'Diamante';
+  src: url('/fonts/diamante_bold.ttf'); 
+  src: url('/fonts/diamante_light.ttf'); 
+  src: url('/fonts/diamante_regular.ttf'); 
+}
+@font-face {
+  font-family: 'Consolas';
+  src: url('/fonts/CONSOLA.ttf'); 
+}
+
+@font-face {
+  font-family: 'Basketball';
+  src: url('/fonts/Basketball.otf');
+}
+
+@font-face {
+  font-family: 'BigNoodleTitlingOblique';
+  src: url('/fonts/big_noodle_titling_oblique.ttf');
+}
+
+@font-face {
+  font-family: 'BigNoodleTitling';
+  src: url('/fonts/big_noodle_titling.ttf');
+}
+
+@font-face {
+  font-family: 'Bombard';
+  src: url('/fonts/BOMBARD_.ttf'),
+  url('/fonts/BOMBARD_.otf');
+}
+
+@font-face {
+  font-family: 'DalekPinPoint';
+  src: url('/fonts/DalekPinpointBold.ttf');
+}
+
+@font-face {
+  font-family: 'EnchantedLand';
+  src: url('/fonts/Enchanted_Land.otf');
+}
+
+@font-face {
+  font-family: 'Hawainas';
+  src: url('/fonts/Hawainas.ttf'),
+  url('/fonts/Hawainas.otf'),
+  url('/fonts/Hawainas.woff');
+}
+
+@font-face {
+  font-family: 'Impact';
+  src: url('/fonts/impact.ttf');
+}
+
+@font-face {
+  font-family: 'Impacted';
+  src: url('/fonts/impacted.ttf');
+}
+
+@font-face {
+  font-family: 'impact-unicode';
+  src: url('/fonts/unicodeimpact.ttf');
+}
+
+@font-face {
+  font-family: 'IRONGATE';
+  src: url('/fonts/IRONGATE.ttf');
+}
+
+.azonix {
+  font-family: 'Azonix';
+}
+
+.basicSquare {
+  font-family: 'BasicSquare';
+}
+
+.diamante {
+  font-family: 'Diamante';
+}
+
+.consolas {
+  font-family: 'Consolas';
+}
+
+.basketball {
+  font-family: 'Basketball';
+}
+
+
+.bignoodle {
+  font-family: 'BigNoodleTitlingOblique';
+}
+.bombard {
+  font-family: 'Bombard';
+}
+.dalek {
+  font-family: 'DalekPinPoint';
+}
+.impact {
+  font-family: 'Impact';
+}
+.impacted {
+  font-family: 'Impacted';
+}
+.impactUnicode {
+  font-family: 'impact-unicode';
+}
+.irongate {
+  font-family: 'IRONGATE';
+}
+.hawainas {
+  font-family: 'Hawainas';
+}
+
+.basicSquareSolid {
+  font-family: 'BasicSquareSolid';
+}
