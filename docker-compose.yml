@@ -1,0 +1,11 @@
+version: '3.3'
+
+services:
+  app:
+    container_name: 'Procurmate_Storefront'
+    build:
+      context: .
+    ports:
+      - "3000:3000"
+    volumes:
+     - .:/app

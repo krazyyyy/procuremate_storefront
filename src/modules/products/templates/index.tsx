@@ -36,7 +36,7 @@ const ProductTemplate: React.FC<ProductTemplateProps> = ({ product }) => {
       } else if (product.collection?.handle.includes('club-kit')) {
         setStep(1);
       } else {
-        setStep(0)
+        setStep(2)
       }
     }
   }, [product])

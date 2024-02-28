@@ -38,6 +38,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 node_modules
-
+yarn.lock
 .yarn
 .swc
